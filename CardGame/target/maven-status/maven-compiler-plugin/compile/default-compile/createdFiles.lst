@@ -1,0 +1,12 @@
+com\deck\cards\game\model\Card.class
+com\deck\cards\game\model\enums\Face.class
+com\deck\cards\game\model\Game.class
+com\deck\cards\game\service\GameServiceImpl.class
+com\deck\cards\game\controller\GameController.class
+com\deck\cards\game\model\Player.class
+com\deck\cards\game\model\Deck.class
+com\deck\cards\game\model\GameDeck.class
+com\deck\cards\game\service\GameService.class
+com\deck\cards\game\CardsGameRestApplication.class
+com\deck\cards\game\model\enums\CardSuit.class
+com\deck\cards\game\model\UniqueID.class
